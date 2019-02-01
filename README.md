@@ -11,4 +11,6 @@ Tree Model Files:
 * ticket-warning.R (Random Forest - Classification)
 * pga.R (Random Forest - Quantitative)
 
-
+Simple Linear Regression (t-tests, ANOVA)
+* peas.R 
+* diamonds.R
