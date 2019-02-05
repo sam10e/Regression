@@ -14,3 +14,10 @@ Tree Model Files:
 Simple Linear Regression (t-tests, ANOVA)
 * peas.R 
 * diamonds.R
+* AdRevenue.R
+* cars04.R
+* indicators.R
+* invoices.R
+* playbill_broadway.R
+
+Regression
