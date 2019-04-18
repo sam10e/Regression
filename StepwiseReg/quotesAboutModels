@@ -1,0 +1,17 @@
+# Quotes about models
+# Tukey; 
+#   "Statisticians, like artists, have a tendency to fall in love with their models.' --Tukey
+
+# Dr. Keith Vorkink BYU devo March 28, 2017
+#   We have a model that works, but we don't fully understand why
+
+# Hocking:
+#   If the goal is prediction we will do better with the "wrong model"
+#   Poorly estimated model: (influenced observations, sparse data, collinearity)
+#   Has biases in future prediction
+
+# Subset Regression/Variable Selection
+# Note: many people misunderstand this... thinking the data will somehow find the important effects
+#   But it's really just "find a simple model that predicts well."
+
+#   Tradeoff between prediction performance and parsimony (simple model that's easy to explain)
